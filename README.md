@@ -7,7 +7,9 @@
 <body>
 
 <h1>Website Coming Soon</h1>
+<div style="background-color:lightblue">
 <p>Coming soon to a screen near you!</p>
+<div style="background-color:lightblue">
 
 <div style="background-color:lightblue">
 <h1 style="color:green">TEST</h1>
