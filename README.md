@@ -6,9 +6,9 @@
 </head>
 <body>
 
-<h1>Website Coming Soon</h1>
+<h1 style="color:green">COMING SOON</h1>
 <div style="background-color:lightblue">
-<p>Coming soon to a screen near you!</p>
+<p><h1 style="color:green">Coming soon to a screen near you!</h1></p>
 <div style="background-color:lightblue">
 
 <div style="background-color:lightblue">
