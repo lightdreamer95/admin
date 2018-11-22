@@ -2,7 +2,6 @@
 <html>
 <head>
 <body background="bg.png">
-<title>lightdreamer95</title>
 </head>
 <body>
 
